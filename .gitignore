@@ -1,0 +1,12 @@
+# Environnement virtuel et caches Python
+.venv/
+__pycache__/
+*.pyc
+
+# Stockage local MLflow
+mlflow.db
+mlartifacts/
+mlruns/
+
+# Préférences VS Code
+.vscode/
